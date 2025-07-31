@@ -72,7 +72,6 @@ The following tables were created:
 ### Features
 
 - Modular schema design
-- Risk classification using ENUM fields
 - Input validation via SQL constraints (e.g., TINYINT range checks)
 - Foreign key constraints to ensure data integrity
 
